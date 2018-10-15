@@ -9,6 +9,6 @@ CONTIKI_PROJECT = sniffer
 
 all: $(CONTIKI_PROJECT)  
 
-CONTIKI = ../../..
+CONTIKI = ../..
 
 include $(CONTIKI)/Makefile.include
